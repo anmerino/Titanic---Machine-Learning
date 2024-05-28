@@ -1,12 +1,12 @@
 
-#Titanic---Machine Learning
+# Titanic---Machine Learning
 
-###Datasets:
+### Datasets:
 . gender_submission.csv
 . test.csv
 . train.csv
 
-###Python scripts:
+### Python scripts:
 . KNN - Solved Exercise
 . Logistic Regression - Exercise
 
